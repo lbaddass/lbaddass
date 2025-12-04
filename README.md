@@ -101,14 +101,14 @@ Engineering is the tool. Education is the outcome.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbaddass&layout=compact&theme=radical&hide_border=true" />
 </p>
 
----
+                                                                                            
 
 # 🌐 **Links & Playbook**
 
 | Link | Description |
 |------|-------------|
-| **Website / Xperta Social** | Growth engineering systems & automation frameworks |
-| **LinkedIn** | Professional network + technical discussions |
+| **Website / Xperta Social** | https://www.xperta.social Growth engineering systems & automation frameworks |
+| **LinkedIn** | https://www.linkedin.com/in/jlgarciaorobio/ Professional network + technical discussions |
 | **Growth Playbook (MkDocs)** | Public documentation for EF-Élite, Andromeda, and AI pipelines |
 | **Email** | Collaboration inquiries & social-impact initiatives |
 
