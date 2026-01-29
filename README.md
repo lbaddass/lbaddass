@@ -1,7 +1,193 @@
 <h1 align="center">👋 Hey, I'm <strong>José Luis García Orobio</strong></h1>
 
 <h3 align="center">Growth Engineer • Full-Stack Automation • AI Systems Architect</h3>
+<div align="center">
 
+![Profile Views](https://komarev.com/ghpvc/?username=lbaddass&color=blueviolet&style=flat-square)
+![GitHub Followers](https://img.shields.io/github/followers/lbaddass?color=green&label=Followers&style=flat-square)
+![GitHub Stars](https://img.shields.io/github/stars/lbaddass?affiliations=OWNER%2CCOLLABORATOR&color=yellow&style=flat-square)
+
+<h1 align="center">⚡ <strong>José Luis García Orobio</strong></h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Growth+Engineer;Full-Stack+Automation;AI+Systems+Architect;Meta+Ads+Specialist;Creative+Automation" alt="Typing SVG" />
+</h3>
+
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://www.xperta.social" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/jlgarciaorobio" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/lbaddassl" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/28878221/luis" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  </a>
+  <a href="https://gitlab.com/lbaddass" target="_blank">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  </a>
+</p>
+
+</div>
+
+<!-- Mission Statement with Card Effect -->
+<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 2rem; border-radius: 15px; margin: 2rem 0; box-shadow: 0 10px 30px rgba(0,0,0,0.2);">
+
+🎯 **Mission-Driven Engineer** • **Systems Architect** • **Automation Specialist**
+
+> "I design, build, and deploy systems that automate revenue, scale operations, and turn AI into real product infrastructure.
+> My long-term mission: fund **social-tech programs** that teach science & engineering to vulnerable communities in Mexico.
+> Engineering is the tool. Education is the outcome."
+
+</div>
+
+## 🏆 **Core Competencies**
+
+<!-- Animated Skill Badges -->
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Architect-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Production-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%2FML-Systems-FF6B6B?style=flat-square&logo=openai&logoColor=white)
+![Meta Ads](https://img.shields.io/badge/Meta_Ads-Algorithmic-0081FB?style=flat-square&logo=meta&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-DevOps-21759B?style=flat-square&logo=wordpress&logoColor=white)
+
+</div>
+
+---
+
+## 🛠️ **Tech Stack Matrix**
+
+<!-- Interactive Tech Stack Tables -->
+<details>
+<summary><b>📊 Tech Stack Overview (Click to Expand)</b></summary>
+
+### 🏗️ **Infrastructure & Cloud**
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" />
+<br><sub>AWS</sub>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" />
+<br><sub>Google Cloud</sub>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
+<br><sub>Docker</sub>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" />
+<br><sub>K8s</sub>
+</td>
+</tr>
+</table>
+
+### 💻 **Frontend & Frameworks**
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
+<br><sub>React</sub>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" />
+<br><sub>Next.js</sub>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" />
+<br><sub>Vue.js</sub>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
+<br><sub>TypeScript</sub>
+</td>
+</tr>
+</table>
+
+### 🤖 **AI & Automation**
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+<br><sub>Python AI</sub>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" width="40" height="40" />
+<br><sub>LLMs</sub>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tensorflow.svg" width="40" height="40" />
+<br><sub>TensorFlow</sub>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/pytorch.svg" width="40" height="40" />
+<br><sub>PyTorch</sub>
+</td>
+</tr>
+</table>
+
+</details>
+
+---
+
+## 📈 **GitHub Analytics**
+
+<!-- Enhanced Stats Cards -->
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img height="200" src="https://github-readme-stats.vercel.app/api?username=lbaddass&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+    </td>
+    <td>
+      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbaddass&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=lbaddass&theme=radical&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+<!-- GitHub Contribution Graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lbaddass/lbaddass/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lbaddass/lbaddass/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lbaddass/lbaddass/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## 🎯 **Active Projects**
+
+<!-- Project Cards -->
+<div align="center">
+
+### 🔥 **High-Priority Deployments**
+
+| Project | Status | Tech Stack | Links |
+|---------|--------|------------|-------|
+| **EF-Élite Playbook** | 🟢 Active | Next.js, Python, PostgreSQL | [Docs](https://xperta.social) • [Repo](https://github.com/lbaddass) |
+| **Andromeda Ads Engine** | 🟡 Beta | Python, Meta API, Redis | Private • [Demo](https://xperta.social) |
+| **Career Velocity v2** | 🟢 Active | Markdown, CI/CD, Automation | [Repo](https://github.com/lbaddass/jluisgarciaorobio) |
+| **Creative Matrix** | 🟡 Developing | React, TypeScript, AI APIs | [Preview](https://xperta.social) |
+
+</div>
+
+---
 <p align="center">
 I design, build, and deploy systems that automate revenue, scale operations, and turn AI into real product infrastructure.  
 My long-term mission: fund <strong>social-tech programs</strong> that teach science & engineering to vulnerable communities in Mexico.  
