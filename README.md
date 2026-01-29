@@ -7,7 +7,6 @@
 ![GitHub Followers](https://img.shields.io/github/followers/lbaddass?color=green&label=Followers&style=flat-square)
 ![GitHub Stars](https://img.shields.io/github/stars/lbaddass?affiliations=OWNER%2CCOLLABORATOR&color=yellow&style=flat-square)
 
-<h1 align="center">⚡ <strong>José Luis García Orobio</strong></h1>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Growth+Engineer;Full-Stack+Automation;AI+Systems+Architect;Meta+Ads+Specialist;Creative+Automation" alt="Typing SVG" />
@@ -267,6 +266,16 @@ Engineering is the tool. Education is the outcome.
   <img src="https://img.shields.io/badge/Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
 </p>
 
+---
+{
+  "github_user": "lbaddass",
+  "theme": "radical",
+  "output": "github-contribution-grid-snake.svg",
+  "color_scheme": {
+    "dark": ["#0d1117", "#161b22", "#0d4429", "#006d32", "#26a641", "#39d353"],
+    "light": ["#ebedf0", "#9be9a8", "#40c463", "#30a14e", "#216e39"]
+  }
+}
 ---
 
 ## 🎨 **Creative & Media Tools**
